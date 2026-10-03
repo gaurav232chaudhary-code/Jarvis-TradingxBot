@@ -1,0 +1,10 @@
+{
+  "app": "JARVIS",
+  "package": "com.jarvis.ai",
+  "versionCode": 1,
+  "versionName": "1.0",
+  "apkUrl": "",
+  "sha256": "",
+  "mandatory": false,
+  "releaseNotes": "JARVIS Android update"
+}
