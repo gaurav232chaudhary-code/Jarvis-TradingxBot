@@ -3,8 +3,8 @@
   "package": "com.jarvis.ai",
   "versionCode": 1,
   "versionName": "1.0",
-  "apkUrl": "",
-  "sha256": "",
+  "apkUrl": "https://github.com/gaurav232chaudhary-code/Jarvis-TradingxBot/releases/download/v1.0/JARVIS.apk",
+  "sha256": "50693905249764868739115e460f14cab8fc047c919d5e43744f4758645092f4",
   "mandatory": false,
   "releaseNotes": "JARVIS Android update"
 }
